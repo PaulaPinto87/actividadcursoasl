@@ -1,0 +1,466 @@
+    1  aptitude update
+    2  aptitude update
+    3  aptitude update
+    4  aptitude update
+    5  cd '/media/4AFE-0FFE/nvidia' 
+    6  dpkg -i *.deb
+    7  cd '/media/4AFE-0FFE/nvidia' 
+    8  dpkg --help
+    9  apt-get -f install
+   10  dpkg -i *.deb
+   11  nvidia-xconfig
+   12  nano /etc/X11/xorg.conf
+   13  update-initramfs -u
+   14  cd ..
+   15  cd ..
+   16  su
+   17  aptitude install git
+   18  nano readme.md 
+   19  nano readme.md 
+   20  git commit -a
+   21  cd gnulinux/
+   22  ls
+   23  touch readme.md
+   24  nano readme.md 
+   25  nano readme.md 
+   26  git commit -a
+   27  git add <readme.md>
+   28  git add readme.md
+   29  git push
+   30  mkdir debian
+   31  cd debian/
+   32  touch debian.txt
+   33  touch fedora.txt
+   34  nano debian.txt 
+   35  nano fedora.txt 
+   36  git commit -a
+   37  rm fedora.txt 
+   38  git commit -a
+   39  git push
+   40  cat debian.txt 
+   41  cd ..
+   42  nano readme.md 
+   43  ls
+   44  cd debian/
+   45  git commit -a
+   46  git push
+   47  git commit -a
+   48  git add debian.txt
+   49  git push
+   50  cd ..
+   51  git commit -a
+   52  git commit -a
+   53  git push
+   54  touch fedora.txt
+   55  ls
+   56  git add .
+   57  git commit -a
+   58  git push
+   59  rm fedora.txt 
+   60  git add .
+   61  git commit -a
+   62  git push
+   63  PaulaPinto87
+   64  sistemas2013
+   65  git push
+   66  git diff
+   67  mkdir prueba
+   68  ls -la
+   69  cd ..
+   70  git clon https://github.com/julioh/cursoasl.git
+   71  git clon https://github.com/julioh/cursoasl
+   72  git clon https://github.com/julioh/cursoasl
+   73  git clon https://github.com/julioh/cursoasl
+   74  clon
+   75  cd gnulinux/
+   76  git clone https://github.com/julioh/cursoasl
+   77  cd ..
+   78  cd gnulinux/
+   79  cd cursoasl/
+   80  cd ..
+   81  cd ..
+   82  cd publico/
+   83  cd cursoasl/
+   84  nano README.md 
+   85  nano README.md 
+   86  git add .
+   87  git pull
+   88  cat README.md 
+   89  cd ..
+   90  rm cursoasl/
+   91  rm -rf cursoasl/
+   92  git clone https://github.com/julioh/cursoasl
+   93  cd cursoasl/
+   94  git pull
+   95  nao README.md 
+   96  nano README.md 
+   97  git pull
+   98  cd ..
+   99  rm -rf cursoasl/
+  100  git clone https://github.com/julioh/cursoasl
+  101  cd cursoasl/
+  102  git pull
+  103  cat README.md 
+  104  nano README.md 
+  105  nano README.md 
+  106  git add
+  107  git commit -a
+  108  git pull
+  109  cd ..
+  110  rm -rf cursoasl/
+  111  git clone https://github.com/julioh/cursoasl
+  112  cd cursoasl/
+  113  git pull
+  114  cat README.md 
+  115  nano README.md 
+  116  git commit -a
+  117  git push
+  118  cd ..
+  119  rm -rf cursoasl/
+  120  git clone https://github.com/julioh/cursoasl
+  121  cd cursoasl/
+  122  nano README.md 
+  123  git commit -a
+  124  git push
+  125  cd ..
+  126  rm -rf cursoasl/
+  127  git clone https://github.com/julioh/cursoasl
+  128  cd cursoasl/
+  129  nano README.md 
+  130  git commit -a
+  131  git push
+  132  git pull
+  133  cd ..
+  134  rm -rf cursoasl/
+  135  git clone https://github.com/julioh/cursoasl
+  136  cd cursoasl/
+  137  git pull
+  138  nano README.md 
+  139  git pull
+  140  cd ..
+  141  cd cursoasl/
+  142  su
+  143  aptitude install git
+  144  git clone https://github.com/PaulaPinto87/cursoasl
+  145  cd control
+  146  cd cursoasl/
+  147  ls -la
+  148  commit -a
+  149  git commit -a
+  150  cd ..
+  151  ls -la
+  152  nano
+  153  git commit -a
+  154  nano
+  155  touch prueba.txt
+  156  nano
+  157  nano .prueba
+  158  cd cursoasl/
+  159  git config --global user.nam "PaulaPinto87"
+  160  git config --global user.ema "ing.paulapinto@gmail.com"
+  161  git push
+  162  git push
+  163  nano prueba.txt
+  164  touch modificar.txt
+  165  nano modificar.txt 
+  166  cat modificar.txt 
+  167  git commit -a
+  168  git commit prueba.txt 
+  169  git commit -a
+  170  nano prueba.txt 
+  171  git push
+  172  git commit -a
+  173  git add prueba.txt 
+  174  git push
+  175  cat prueba.txt 
+  176  nano prueba.txt 
+  177  aptitude search grandr
+  178  aptitude chow lx
+  179  aptitude show lx
+  180  aptitude show lx ran
+  181  aptitude show lxran
+  182  aptitude show lxrandr
+  183  aptitude install lxrandr
+  184  aptitude remove lxrandr 
+  185  aptitude puger lxrandr 
+  186  aptitude puge lxrandr 
+  187  aptitude purge lxrandr 
+  188  aptitude install lxrandr
+  189  aptitude remove --purge lxrandr
+  190  aptitude shwo db
+  191  aptitude shwo bb
+  192  aptitude install bb
+  193  aptitude install bb -y
+  194  exit
+  195  update -desktop -database
+  196  locate *.iso
+  197  aptitude install locate
+  198  aptitude install nss-updatedb
+  199  aptitude install nss-updatedb locate
+  200  updatedb
+  201  locate *.db
+  202  locate *.txt
+  203  dpkg -i openproj_1.4_2.deb
+  204  aptitude show openproj_1.4_2.deb
+  205  cd Descargas/
+  206  aptitude show openproj_1.4_2.deb
+  207  dpkg -l | grep openproj_1.4-2.deb 
+  208  dpkg -l | grep openproj_1.4-2 
+  209  dpkg -l | grep openproj
+  210  dpkg -r openproj
+  211  dpkg -l | grep openproj
+  212  dpkg -i openproj_1.4_2.deb
+  213  dpkg -i openproj_1.4_2.debopenproj_1.4_2.deb
+  214  dpkg -i openproj_1.4-2.deb
+  215  dpkg -l | grep openproj
+  216  dpkg -r openproj
+  217  apt-get source sl
+  218  aptitude install dpkg-sources
+  219  aptitude install dpkg-dev
+  220  sl txt
+  221  ls
+  222  sl_3.03
+  223  cd 
+  224  ls
+  225  apt-get source sl
+  226  ls
+  227  cd sl-3.03/
+  228  nano /etc/apt/sources.list
+  229  debuil -us -uc
+  230  aptitude install pdebuild-cross 
+  231  dbuild-pdbuilder -us -uc
+  232  dbuild-pbuilder -us -uc
+  233  dbuild-pbuilder-us-uc
+  234  ls
+  235  cd ..
+  236  cd ..
+  237  dbuild-pbuilder -us -uc
+  238  cd Descargas/
+  239  cd sl-3.03/
+  240  debuild-pbuilder -us -uc
+  241  aptitude install autopoint autotools-dev bcc gcc gcc-4.4 gcc-4.6 gcc-4.7 libmail-sendmail-perl manpages-dev tcc build-essential -y
+  242  apt-get source sl
+  243  cd sl-3.03/
+  244  dpkg-source --commit
+  245  cd ..
+  246  dpkg-source --commit
+  247  cd ..
+  248  cd sl-3.03/
+  249  dpkg-buildpackage
+  250  dpkg-source --commit
+  251  dpkg-buildpackage -us -uc
+  252  dpkg-source --commit
+  253  nano sl.h
+  254  dpkg-source --commit
+  255  dpkg-buildpackage -us -uc
+  256  cd ..
+  257  aptitude remove --purge sl
+  258  ls
+  259  dpkg -i sl_3.03-17_amd64.deb 
+  260  sl
+  261  ls
+  262  cd sl-3.03/
+  263  ls
+  264  sl
+  265  cd ..
+  266  aptitude debmirror
+  267  aptitude install debmirror
+  268  git clone https://github.com/julioh/cursoasl.git
+  269  cd cursoasl/
+  270  ls
+  271  gedit MODIFICACIONPAQUETES.TXT 
+  272  gedit MODIFICACIONPAQUETES.TXT 
+  273  debmirror --host=http.us.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386,amd64 --dist=wheezy,jessie --method=http --section=main,contrib,non-free /var/www/debian
+  274  cat /etc/apt/sources.list
+  275  cat /etc/apt/sources.list
+  276  nano /etc/apt/sources.list
+  277  crontab -e
+  278  aptitude install crontab
+  279  mkdir paquete
+  280  cd paquete/
+  281  apt-get source bmon
+  282  cd bmon-2.0.1/
+  283  cd src/
+  284  nano out_ascii.c 
+  285  ls
+  286  nano out_curses.c 
+  287  dpkg-buildpackage -us -uc
+  288  cd ..
+  289  ls
+  290  cd src/
+  291  ls
+  292  history
+  293  dpkg -l | grep bb
+  294  nano /apt/sources.list
+  295  nano /etc/sources.list
+  296  nano /etc/apt/sources.list
+  297  nano /etc/apt/sources.list
+  298  aptitude update
+  299  cd Descargas/
+  300  ls
+  301  cd sl-3.03/
+  302  nano sl.txt
+  303  nautilus
+  304  canaima-desarrollo
+  305  canaima-desarrollador
+  306  clear
+  307  aptitude search canaima-desarrollador
+  308  aptitude install canaima-desarrollador
+  309  canaima-desarrollador 
+  310  aptitude search canaima-desarrollador
+  311  cd /home/equipo3/
+  312  mkdir canaima
+  313  cd canaima/
+  314  canaima-desarrollador 
+  315  ls-la
+  316  ls -la
+  317  exit
+  318  adduser lab
+  319  ls
+  320  ls /home/
+  321  deluser lab
+  322  ls / /home/
+  323  adduser lab
+  324  ls /home/
+  325  passwd lab
+  326  ps -aux | grep tty
+  327  kill -9 3354
+  328  ps -aux | grep tty
+  329  kill -9 2505
+  330  ps -aux | grep tty
+  331  kill -9 3878
+  332  ps -aux | grep tty
+  333  ps -aux | grep tty
+  334  kill -9 2507 4013 7175 7178
+  335  ps -aux | grep tty
+  336  nano /etc/group
+  337  visudo
+  338  fdisk -l
+  339  cfdisk
+  340  apt-get source canaima-acerca
+  341  ls
+  342  cd canaima-acerca-gnome-3.1/
+  343  ls
+  344  nano canaima-acerca-gnome.py 
+  345  cd ..
+  346  exit
+  347  exit
+  348  aptitude install xtightvncviewer
+  349  x11vnc -bg -gui -passwd contraseña
+  350  aptitude install arp-scan
+  351  eth0
+  352  arp-scan --interface=eth0 --localnet
+  353  aptitude install nmap
+  354  nmap -A -TA 172.16.1.115
+  355  nmap -A -TA 172.16.1.117
+  356  nmap -A -TA 172.16.1.1163
+  357  nmap -A -TA 172.16.1.63
+  358  nmap 
+  359  nmap -A -T4 172.16.1.115
+  360  nano /etc/ssh/ssh_config 
+  361  cd /etc/init.d/
+  362  ls
+  363  aptitude install ssh
+  364  nano /etc/ssh/sshd_config 
+  365  /etc/init.d/ssh restart
+  366  nmap 172.16.1.61
+  367  nano /etc/ssh/sshd_config 
+  368  nano /etc/ssh/ssh_config 
+  369  nmap 172.16.1.61
+  370  /etc/init.d/ssh restart
+  371  nmap 172.16.1.61
+  372  nano /etc/ssh/ssh_config 
+  373  nmap 
+  374  nmap 172.16.1.61
+  375  rm-rf escupoly/
+  376  rm -rf escupoly/
+  377  cp -R institucional
+  378  cp -R primera-base | institucional
+  379  cp -R primera-base/ institucional
+  380  cd institucional/
+  381  ls
+  382  nano profile.conf 
+  383  cd ..
+  384  cd ..
+  385  cd isos/
+  386  chroot chroot
+  387  ls
+  388  nano profile.conf 
+  389  nano profile.conf 
+  390  cd /usr/share/canaima-semilla/
+  391  ls
+  392  cd isos/
+  393  ls
+  394  clear
+  395  su
+  396  cd ..
+  397  cd ..
+  398  cd ..
+  399  cd ..
+  400  x11vnc
+  401  aptitude install imagemagick
+  402  canaima-semilla construir --medio="iso" --arquitectura="i386" --sabor="escupoly"
+  403  c-s construir --medio="iso" --arquitectura="i386" --sabor="popular"
+  404  c-s construir --medio="iso" --arquitectura="i386" --sabor="escupoly"
+  405  c-s construir --medio="iso" --arquitectura="i386" --sabor="primera-base"
+  406  c-s construir --medio="iso" --arquitectura="i386" --sabor="escupoly"
+  407  c-s construir --medio="iso" --arquitectura="i386" --sabor="institucional"
+  408  history
+  409  mkdir evaluacion
+  410  ls
+  411  cd evaluacion/
+  412  git clone https://github.com/julioh/cursoasl.git
+  413  gedit
+  414  ls
+  415  cd cursoasl/
+  416  ls}
+  417  ls
+  418  cd evaluacion.txt
+  419  gedit evaluacion.txt
+  420  gedit evaluacion.txt
+  421  gedit evaluacion.txt
+  422  exit
+  423  cd evaluacion/
+  424  git clone https://github.com/PaulaPinto87/actividadcursoasl.git
+  425  exit
+  426  cd /home/
+  427  cd equipo3/
+  428  cd evaluacion/
+  429  cd actividadcursoasl/
+  430  ls
+  431  cd sl-3.03/
+  432  git add .
+  433  git commit -a
+  434  git push
+  435  cd ..
+  436  mkdir canaima-semilla
+  437  cp -R primera-base/ canaima-semilla/
+  438  cd canaima-semilla/
+  439  cp _r primera-base
+  440  cd ..
+  441  apt-get primera-base/
+  442  /usr/share/primera-base
+  443  /usr/share/canaima-semilla/profiles/primera-base/ paula
+  444  mv /usr/share/canaima-semilla/profiles/primera-base/ paula
+  445  ls
+  446  nano paula
+  447  cd paula/
+  448  ls
+  449  nano profile.conf 
+  450  touch pasosiso 
+  451  ls
+  452  rm -rf pasosiso 
+  453  touch pasosiso.txt
+  454  ls
+  455  nano pasosiso.txt 
+  456  git add .
+  457  git commit -a
+  458  git push
+  459  touch evaluacio.txt
+  460  ls
+  461  nano evaluacio.txt 
+  462  git add .
+  463  git commit -a
+  464  git push
+  465  history
+  466  history >> historypaula.txt
