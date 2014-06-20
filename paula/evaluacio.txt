@@ -1,0 +1,93 @@
+Actividad. Curso de Adminsitracion en Linux
+
+
+- Entrar como root, ejecutar
+
+history -c
+
+
+-Crear un proyecto en github llamado actividadcursoasl
+1- Generar el Readme de una vez
+2- Agregarme al proyecto mi correo es juliochg@gmail.com
+3- agregar este .txt que ha sido modificado con tu nombre y apellido.
+4-hacer un commit
+
+5- Crear 5 archivos llamados y cambiar permisologia
+ -curso1.txt   ---RW-R-X
+ -curso2.txt   RWX-W-RW-
+ -curso3.txt   --X--X--X
+ -curso4.txt   -W--W-RWX
+ -curso5.txt   ---RW-R--
+
+6-Como puedo visualizar las particiones del disco duro
+
+Ejecutando el comando df -h
+
+7-Como matamos un proceso del computador
+
+ejecutando el comando kill -9 mas el codigo de proceso que se desee matar
+
+8-Crear un carpeta llamada cunaguaro.
+  -abrir cunaguaro
+  -guardar la busqueda en archivo llamado cunaguaro.txt
+ 
+9-Crear un carpeta llamada kernel.
+  -guardar la busqueda en archivo llamado kernel.txt
+  -mover la carpeta kernel por kernel1.0
+
+10-Como configuras una interfaz de red con dhcp
+
+11-Que sucede cuando ejecutas el
+comando: touch registros
+- Copia el archivo registros al directorio actual.
+-Crea un archivo vacío llamado registros.(RESPUESTA)
+-Borra el archivo registros.
+-Mueve el archivo registros al directorio actual
+
+12-El comando: more examen
+- Despliega el contenido del archivo examen, una pantalla a la vez.(RESPUESTA)
+- Nos cambia al directorio examen.
+- Crea el archivo examen el directorio actual.
+- Muestra las primeras líneas del archivo examen
+
+13-crear un carpeta sl
+descargar el paquete fuente de sl, modificar el tren 
+con su nombre generar un nuevo paquete, e instalarlo
+  subir dichos paquetes al servidor de github
+
+14-comando para listar redes inalambricas.
+
+iwconfig wlan0
+
+15-como funcionan x11vnc, pasos del cliente y servidor
+
+ejecutar x11vnc
+presionar Alt+F2 
+ejecutar el comando xtightvncviewer (se abrira una interfaz grafica)
+
+16- Como agregamos el usuario y gestionamos el cambio de contraseña
+
+se ejecuta el comando adduser "nombredelnuevousuario"
+para la contraseña se ejecuta el comando passwd "nombredelusuario"
+
+17-crear un carpeta canaima-semilla, copiar un sabor desde primera-base
+  llamarlo con el nombre de ustedes, editarlo todos los perfil personalizado.
+   subir dicha carpeta a github.
+   - agregar un txt, con los pasos para ejecutar la creacion de la .iso
+
+18- donde se modifican los repositorios en debian, 
+   - cuales son los pasos para ejecutar un repositorio nuevo.
+
+primero que nada debemos tener instalado apache, ejecutar cat/etc/apt/sources.list y luego agregar el nuevo repositorio deb http://debian weezy main contrib non-free
+
+19- Las particiones de un disco se nombran mediante el nombre de dispositivo y el
+número de partición:
+
+Disco duro IDE = HD (HDa (maestro), HDb(esclavo), HDc(maestro secundario), HDd(esclavo secundario)).
+Disco Duro SATA = Sda, Sdb, Sdc, Sdd...  (Sda1, Sda2,Sda3) segun el numero de particiones que se creen.
+
+20- Como hago un repositorio con debmirror, comando.
+
+
+
+21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
